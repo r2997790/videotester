@@ -1,0 +1,18 @@
+.centered-title {
+    text-align: center;    
+}
+
+.videos-container {
+        text-align: center;    
+
+}
+.buttons-container {
+    margin-top:20px;
+    margin-bottom:20px;
+    text-align: center;    
+
+}
+#countdown {
+         text-align: center;   
+    font-size: 24px;
+}
